@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vislower
-- 👀 I’m interested in programming, cybersecurity, open-source projects.
-- 🌱 I’m currently learning Java, Python and C.
+- 👀 I’m interested in programming, cybersecurity, open-source projects
+- 🌱 I’m currently learning Java, Python and C
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
