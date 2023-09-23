@@ -6,6 +6,7 @@ I'm currently studying computer science at EPFL
 - OS programming
 - ML
 - cybersecurity
+- maths
 ## 🌱 I'm currently learning
 - Java
 - Python
