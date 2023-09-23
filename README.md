@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @vislower
-- 👀 I’m interested in programming, cybersecurity, open-source projects
-- 🌱 I’m currently learning Java, Python and C
+# 👋 Hi, I’m vislower
+I'm currently studying computer science at EPFL
+## 👀 I'm interested in
+- open-source projects
+- low-level programming
+- OS programming
+- ML
+- cybersecurity
+## 🌱 I'm currently learning
+- Java
+- Python
+- C
+- Object Oriented Programming
+- Data Structures & Algorithms
+
 
 [![vislower’s github stats](https://github-readme-stats.vercel.app/api?username=vislower)](https://github.com/vislower)
 
