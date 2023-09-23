@@ -1,5 +1,5 @@
 # 👋 Hi, I’m vislower
-I'm currently studying computer science at EPFL
+I'm currently studying computer science at [EPFL](https://www.epfl.ch/en/)
 ## 👀 I'm interested in
 - open-source projects
 - low-level programming
