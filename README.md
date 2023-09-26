@@ -15,9 +15,9 @@ I'm currently studying computer science at [EPFL](https://www.epfl.ch/en/)
 - Data Structures & Algorithms
 
 
-[![vislower’s github stats](https://github-readme-stats.vercel.app/api?username=vislower&show_icons=true&theme=onedark)](https://github.com/vislower)
+<!---[![vislower’s github stats](https://github-readme-stats.vercel.app/api?username=vislower&show_icons=true&theme=onedark)](https://github.com/vislower)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vislower&layout=compact&show_icons=true&theme=onedark)](https://github.com/vislower)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vislower&layout=compact&show_icons=true&theme=onedark)](https://github.com/vislower) ---!>
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
